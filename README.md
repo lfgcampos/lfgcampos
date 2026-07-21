@@ -12,7 +12,8 @@ Essays on engineering leadership and the craft of building software in the AI ag
 ### 🛠️ Building
 
 - **[whatkindof.dev](https://whatkindof.dev)** — a 16personalities-style personality test for developers in the AI age
-- *More on the way.*
+- **[meetstreak.dev](https://meetstreak.dev)** — a GitHub-style contributions heatmap for your meetings *(beta)*
+- **[teamweather.dev](https://teamweather.dev)** — a 60-second weekly weather report for your team's flow, not its people *([live demo](https://demo.teamweather.dev)) (beta)*
 
 ### 🧬 My dev type
 
